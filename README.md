@@ -1,2 +1,2 @@
-# LMS
+# LSM
 Este proyecto LMS trata de ...
