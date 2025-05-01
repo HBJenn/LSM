@@ -1,2 +1,2 @@
 # LSM
-Este proyecto LMS trata de ...
+Lengua de Señas Mexicana
