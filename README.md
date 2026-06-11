@@ -1,4 +1,4 @@
-# Lengua de Señas Mexicana (LMS)
+# Lengua de Señas Mexicana (LSM)
 
 LSM (Lengua de Señas Mexicana) es un proyecto que usa inteligencia artificial para identificar y clasificar los gestos de la lengua de señas, especialmente las letras del abecedario (A-Z) y las vocales (A, E, I, O, U). Utilizando la plataforma Teachable Machine, la idea es hacer más fácil aprender y comunicarse en LSM, combinando tecnología accesible con una propuesta de inclusión educativa. 
 Este proyecto tiene dos modelos entrenados por separado: 1. Modelo del alfabeto (26 letras): que reconoce las señas estáticas de cada letra. 2. Modelo de vocales (5 letras): enfocado en detectar las vocales con mayor precisión, ideal para quienes están empezando. Para entrenarlos, se tomaron fotos de las posiciones de las manos, usando una red neuronal sencilla para categorizarlas. Así, el sistema puede interpretar las señas en tiempo real, usando una cámara, y mostrar la letra en pantalla. 
